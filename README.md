@@ -26,7 +26,7 @@ In the future I plan to add sample projects, demos and articles here.
 
 I was looking for a way to automate the process of keeping my resume / CV up-to-date. After researching a few tools, I decided that the [JSON Resume project](https://jsonresume.org/) seemed like the best choice. It has a [chrome extension](https://chrome.google.com/webstore/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec) that will pull your data from [linkedIn](https://www.linkedin.com/in/crobicha/) and format into a [JSON file](https://github.com/robichaudc/json-resume-builder/blob/main/data/resume.json), which you can then use a command-line utility to format into one of [many different themes](https://jsonresume.org/themes/).
 
-I wrote [a small script](https://github.com/robichaudc/json-resume-builder/blob/main/setup.sh) that would automate the process of generating my json content in several different themes, so that I could play around with the final display a bit and try out different things. It can also be configured to generate PDF files in each theme
+I wrote [a small script](https://github.com/robichaudc/json-resume-builder/blob/main/build.sh) that would automate the process of generating my json content in several different themes, so that I could play around with the final display a bit and try out different things. It can also be configured to generate PDF files in each theme
 
 <!--
 
