@@ -28,7 +28,7 @@ I was looking for a way to automate the process of keeping my resume / CV up-to-
 
 I wrote [a small script](https://github.com/robichaudc/json-resume-builder/-/blob/main/setup.sh) that would automate the process of generating my json content in several different themes, so that I could play around with the final display a bit and try out different things. It can also be configured to generate PDF files in each theme
 
-
+<!--
 
 ## Test with Markdown formatting
  - see https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
@@ -43,3 +43,5 @@ print("hello world!")
 
 </p>
 </details>
+
+-->
