@@ -5,4 +5,4 @@ This repository contains the content and config files for my [portfolio page](ht
 ## How it works
 The Portfolio site is hosted by [GitHub Pages](https://help.github.com/categories/github-pages-basics/) and uses a custom [Jekyll theme](https://jekyllrb.com/)
 
-Check out the (./docs) folder for the actual source
+Check out the docs folder for the actual source
